@@ -7,12 +7,12 @@ import (
 var jsonMetadata = `{
   "name": "randomnumber",
   "type": "flogo:activity",
-  "ref": "github.com/retgits/flogo-components/activity/randomnumber",
+  "ref": "github.com/leonobrien/flogo-components/edit/master/activity/randomnumber",
   "version": "0.0.1",
   "title": "Random Number",
   "description": "Creates a random number between min and max",
   "author": "retgits",
-  "homepage": "https://github.com/retgits/flogo-components/tree/master/activity/randomnumber",
+  "homepage": "https://github.com/leonobrien/flogo-components/edit/master/activity/randomnumber",
   "inputs":[
     {
       "name": "min",
