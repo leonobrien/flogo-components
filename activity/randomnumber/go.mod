@@ -1,4 +1,4 @@
-module github.com/leonobrien/flogo-components/edit/master/activity/randomnumber
+module github.com/leonobrien/flogo-components/activity/randomnumber
 
 go 1.14
 
